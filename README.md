@@ -6,4 +6,4 @@ Put wifi_hack in that new folder,
 Change marked filepaths in wifi_hack.py to where ever you put the files.
 Run wifi_hack.py on Windows command prompt using python 3.6+
 
-Hafe fun!
+Have fun!
